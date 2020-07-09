@@ -2,6 +2,9 @@
 这是flask基础教程的运行方法
 ## 命令
 ```
+先激活虚拟环境
+venv\Scripts\activate
+然后运行
 > set FLASK_APP=flaskr
 > set FLASK_ENV=development
 > flask run
